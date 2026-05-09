@@ -1,0 +1,14 @@
+Scan results for 192.168.100.238
+==============================
+Port 21 is open -- FTP
+Port 22 is open -- SSH
+Port 23 is open -- Telnet
+Port 25 is open -- SMTP
+Port 53 is open -- DNS
+Port 80 is open -- HTTP
+Port 111 is open -- RPCbind
+Port 139 is open -- NetBIOS
+Port 445 is open -- SMB
+Port 512 is open -- rexec
+Port 513 is open -- rlogin
+Port 514 is open -- rsh
