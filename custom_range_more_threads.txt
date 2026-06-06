@@ -1,0 +1,20 @@
+[*] Resolved scanme.nmap.org to 45.33.32.156
+
+[*] Starting scan on 45.33.32.156
+[*] Port range: 1-500
+[*] Threads: 200
+[*] Start time: 2026-06-06 11:45:07
+
+[+] Port 22/tcp OPEN — Banner: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+[+] Port 80/tcp OPEN — Banner: HTTP/1.1 200 OK
+Date: Sat, 06 Jun 2026 10:45:07 GMT
+Server: Apache/2.4.7 (Ubun)
+
+[*] Scan complete: 2026-06-06 11:45:08
+[*] 2 open port(s) found
+
+--- Summary ---
+  22/tcp — SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+  80/tcp — HTTP/1.1 200 OK
+Date: Sat, 06 Jun 2026 10:45:07 GMT
+Server: Apache/2.4.7 (Ubun)
